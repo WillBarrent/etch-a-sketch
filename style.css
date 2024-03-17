@@ -73,3 +73,10 @@ button {
 .square {
     flex: 1 1 auto;
 }
+
+/* THAT IS STYLE FOR ACTIVE EFFECT */
+
+
+button.active {
+    background: rgb(32, 172, 71);
+}
